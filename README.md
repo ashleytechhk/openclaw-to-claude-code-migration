@@ -7,7 +7,7 @@ Migrate your OpenClaw AI assistant to run natively on Claude Code CLI — fully 
 Just paste this into your Claude Code session and it handles everything:
 
 ```
-Fetch https://raw.githubusercontent.com/anthropics/openclaw-migration/main/SKILL.md and follow the migration instructions inside.
+Fetch https://raw.githubusercontent.com/ashleytechhk/openclaw-to-claude-code-migration/main/SKILL.md and follow the migration instructions inside.
 ```
 
 Claude Code will:
